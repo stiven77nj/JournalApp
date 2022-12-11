@@ -9,10 +9,6 @@ export const JournalPage = () => {
   return (
     <JournalLayout>
 
-      {/* <Typography>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate doloremque animi quos.
-      </Typography> */}
-
       <NothingSelectedView />
       {/* <NoteView /> */}
 
